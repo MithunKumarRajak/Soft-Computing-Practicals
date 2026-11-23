@@ -1,0 +1,7 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+# Other files and directories to ignore
+Project/
